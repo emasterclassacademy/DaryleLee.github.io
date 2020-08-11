@@ -10,11 +10,11 @@ phone: Your phone number (optional)
 website: Your website (eg. https://google.com)(optional)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-github_username:  jekyll
-youtube_username: jekyll
+github_username:  emasterclassacademy
+youtube_username: channel/UCtfTf1nNJQ4PbUDqj-Q48rw
 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
