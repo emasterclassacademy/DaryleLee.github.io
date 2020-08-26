@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Daryle Lee
 title: PhD CFA FRM MIET
 email: emasterclassacademy@gmail.com
-phone: +852-98783790
+# phone: +852-98783790
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -29,13 +29,15 @@ youtube_username: channel/UCtfTf1nNJQ4PbUDqj-Q48rw
 # about_title: About Me (Use this to override about section title)
 about_profile_image: logo_head1.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  #Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  #You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+  #  - Lists
+  #  - Tables
+  #  - <a href="google.com">Links</a>
+  #  - Images
+  A self-motivated, discipline and dedicated individual, with <mark> 10 years of data analytics and modelling experience </mark> in the academic and energy sectors. 
+  An excellent team player, with strong interpersonal skills and attention-to-detail mentality best suited for complex tasks and analytical work. A focus person who constantly strives to learn and perfect the skill sets to be ahead of the field.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
