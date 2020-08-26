@@ -5,7 +5,7 @@
   job_title: 
   dates: 2020 – Present 
   description: | # this will include new lines to allow paragraphs
-    <b><font size="+2">Founder</font></b><br>
+    <b><font size="+1">Founder</font></b><br>
     Roles and Responsibities<br>
     <mark>Artificial Intelligence and Machine Learning</mark><br>
     <mark>Data Analytics and Data Science</mark><br>
@@ -17,7 +17,7 @@
   job_title: 
   dates: 2019 – Present 
   description: | # this will include new lines to allow paragraphs
-    <b><font size="+2">Founding Member & Business Director</font></b><br>
+    <b><font size="+1">Founding Member & Business Director</font></b><br>
     Roles and Responsibities<br>
     <mark>Business Development</mark><br>
     <mark>Digital Strategy</mark><br>
@@ -29,7 +29,7 @@
   job_title: 
   dates: 2015 – Present 
   description: | # this will include new lines to allow paragraphs
-    <b><font size="+2">Assistant Manager - CLP Research Institute</font></b><br>
+    <b><font size="+1">Assistant Manager - CLP Research Institute</font></b><br>
     Roles and Responsibities<br>
     <mark>Data Analytics and Data Science</mark><br>
     <mark>Electrical Engineering</mark><br>
