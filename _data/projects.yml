@@ -2,9 +2,10 @@
 - layout: left
   name: eMaster Class Academy
   link: www.youtube.com/c/eMasterClassAcademy
-  job_title: Founder
+  job_title: 
   dates: 2020 – Present 
   description: | # this will include new lines to allow paragraphs
+    <p style="font-size:30px">Founder</p><br>
     <b>Roles and Responsibities</b><br>
     <mark>Artificial Intelligence and Machine Learning</mark><br>
     <mark>Data Analytics and Data Science</mark><br>
