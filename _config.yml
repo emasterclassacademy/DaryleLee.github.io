@@ -35,8 +35,8 @@ about_content: | # this will include new lines to allow paragraphs
   
   A focus person who constantly strives to learn and perfect the skill sets to be ahead of the field.
   
-  Area of Expertise: <mark>Electrical Engineering</mark> <mark>Artificial Intelligence and Machine Learning</mark> <mark>Data Analytics and Data Science</mark> 
-  <mark>Applications of AI and ML to Energy, Finance and other domains</mark> <mark>Education</mark>
+  Area of Expertise: <mark>Applications of AI and ML to Energy, Finance and other domains</mark> <mark>Artificial Intelligence and Machine Learning</mark> <mark>Data Analytics and Data Science</mark> 
+   <mark>Education</mark> <mark>Electrical Engineering</mark>
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
