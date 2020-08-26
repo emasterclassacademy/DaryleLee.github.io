@@ -14,10 +14,11 @@
 - layout: left
   name: Kong Magazine
   link: www.konghk.com
-  job_title: Founding Member & Business Director
+  job_title: 
   dates: 2019 – Present 
   description: | # this will include new lines to allow paragraphs
-    <b>Roles and Responsibities</b><br>
+    <b><font size="+2">Founding Member & Business Director</font></b><br>
+    Roles and Responsibities<br>
     <mark>Business Development</mark><br>
     <mark>Digital Strategy</mark><br>
     <mark>Digital Marketing</mark><br>
@@ -25,10 +26,11 @@
 - layout: left
   name: CLP
   link: www.clpgroup.com
-  job_title: Assistant Manager - CLP Research Institute
+  job_title: 
   dates: 2015 – Present 
   description: | # this will include new lines to allow paragraphs
-    <b>Roles and Responsibities</b><br>
+    <b><font size="+2">Assistant Manager - CLP Research Institute</font></b><br>
+    Roles and Responsibities<br>
     <mark>Data Analytics and Data Science</mark><br>
     <mark>Electrical Engineering</mark><br>
     <mark>Strategic Planning</mark><br>
