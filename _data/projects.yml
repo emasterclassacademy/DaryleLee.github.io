@@ -1,5 +1,16 @@
 # Project template
 - layout: left
+  name: eMaster Class Academy
+  link: www.youtube.com/c/eMasterClassAcademy
+  job_title: Founder
+  dates: 2020 – Present 
+  description: | # this will include new lines to allow paragraphs
+    <b>Roles and Responsibities</b><br>
+    <mark>Artificial Intelligence and Machine Learning</mark><br>
+    <mark>Data Analytics and Data Science</mark><br>
+    <mark>Education</mark><br>
+    
+- layout: left
   name: Kong Magazine
   link: www.konghk.com
   job_title: Founding Member & Business Director
@@ -9,4 +20,14 @@
     <mark>Business Development</mark><br>
     <mark>Digital Strategy</mark><br>
     <mark>Digital Marketing</mark><br>
-    
+        
+- layout: left
+  name: CLP
+  link: www.clpgroup.com/
+  job_title: Assistant Manager - CLP Research Institute
+  dates: 2020 – Present 
+  description: | # this will include new lines to allow paragraphs
+    <b>Roles and Responsibities</b><br>
+    <mark>Data Analytics and Data Science</mark><br>
+    <mark>Electrical Engineering</mark><br>
+    <mark>Strategic Planning</mark><br>
