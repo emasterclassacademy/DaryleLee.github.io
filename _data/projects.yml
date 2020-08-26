@@ -5,8 +5,8 @@
   job_title: 
   dates: 2020 – Present 
   description: | # this will include new lines to allow paragraphs
-    <p style="font-size:30px">Founder</p><br>
-    <b>Roles and Responsibities</b><br>
+    <b><p style="font-size:20px">Founder</p></b>
+    Roles and Responsibities<br>
     <mark>Artificial Intelligence and Machine Learning</mark><br>
     <mark>Data Analytics and Data Science</mark><br>
     <mark>Education</mark><br>
@@ -24,7 +24,7 @@
         
 - layout: left
   name: CLP
-  link: www.clpgroup.com/
+  link: www.clpgroup.com
   job_title: Assistant Manager - CLP Research Institute
   dates: 2015 – Present 
   description: | # this will include new lines to allow paragraphs
