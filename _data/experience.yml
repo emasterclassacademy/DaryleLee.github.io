@@ -10,12 +10,11 @@
     <mark>Education</mark>
     <mark>Electrical Engineering</mark>
 
-
 - layout: left
   company: The University of Hong Kong
   link: www.hku.hk
-  job_title: Senior Research Assistant 
+  job_title: Senior Research Assistant
   dates: Feb 13 – Dec 15
   description: | # this will include new lines to allow paragraphs
-  Research Projects
+
 
