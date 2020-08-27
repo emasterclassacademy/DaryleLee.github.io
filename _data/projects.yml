@@ -7,9 +7,9 @@
   description: | # this will include new lines to allow paragraphs
     <b><font size="+1">Founder</font></b><br>
     Roles and Responsibities<br>
-    <mark>Artificial Intelligence and Machine Learning</mark><br>
-    <mark>Data Analytics and Data Science</mark><br>
-    <mark>Education</mark><br>
+    <mark>Artificial Intelligence and Machine Learning</mark>
+    <mark>Data Analytics and Data Science</mark>
+    <mark>Education</mark>
     
 - layout: left
   name: Kong Magazine
@@ -19,9 +19,9 @@
   description: | # this will include new lines to allow paragraphs
     <b><font size="+1">Founding Member & Business Director</font></b><br>
     Roles and Responsibities<br>
-    <mark>Business Development</mark><br>
-    <mark>Digital Strategy</mark><br>
-    <mark>Digital Marketing</mark><br>
+    <mark>Business Development</mark>
+    <mark>Digital Strategy</mark>
+    <mark>Digital Marketing</mark>
         
 - layout: left
   name: CLP
@@ -31,6 +31,6 @@
   description: | # this will include new lines to allow paragraphs
     <b><font size="+1">Assistant Manager - CLP Research Institute</font></b><br>
     Roles and Responsibities<br>
-    <mark>Data Analytics and Data Science</mark><br>
-    <mark>Electrical Engineering</mark><br>
-    <mark>Strategic Planning</mark><br>
+    <mark>Data Analytics and Data Science</mark>
+    <mark>Electrical Engineering</mark>
+    <mark>Strategic Planning</mark>
