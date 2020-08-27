@@ -6,8 +6,8 @@
   dates: Jan 15 – Dec 15
   description: | # this will include new lines to allow paragraphs
     Roles and Responsibilities<br>
-    <mark>Artificial Intelligence and Machine Learning</mark><br>
-    <mark>Education</mark><br>
+    <mark>Artificial Intelligence and Machine Learning</mark>
+    <mark>Education</mark>
     <mark>Electrical Engineering</mark>
 
 - layout: left
@@ -36,8 +36,8 @@
     Aug 08 – Nov 09	   General Banking Officer, HSBC<br>
     Roles and Responsibilities<br>
     <mark>General Banking</mark>
-    <mark>Financial Planning</mark><br>
-    <mark>Portfolio Management</mark><br>
+    <mark>Financial Planning</mark>
+    <mark>Portfolio Management</mark>
 
 - layout: left
   company:  Hongkong Electric Co. Ltd
@@ -46,6 +46,6 @@
   dates: Aug 07 – Aug 08
   description: | # this will include new lines to allow paragraphs
     Roles and Responsibilities<br>
-    <mark>Business Development</mark><br>
+    <mark>Business Development</mark>
     <mark>Electrical Engineering</mark>
-    <mark>Transmission and Distribution Planning</mark><br>  
+    <mark>Transmission and Distribution Planning</mark>
