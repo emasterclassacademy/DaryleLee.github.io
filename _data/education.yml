@@ -13,3 +13,17 @@
   description: | # this will include new lines to allow paragraphs
     Accredited CLP Data Analytics Program<br>
     Associate - Data Science Version 2.0
+
+- layout: left
+  name: deeplearning.ai
+  dates: Jan 20 – Mar 20 
+  qualification: Certification
+  description: | # this will include new lines to allow paragraphs
+    Deep Learning
+ 
+- layout: left
+  name: IBM
+  dates: Dec 19 – Feb 20
+  qualification: Certification
+  description: | # this will include new lines to allow paragraphs
+    IBM Data Science
