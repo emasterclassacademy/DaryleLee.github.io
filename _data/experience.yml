@@ -39,4 +39,13 @@
     <mark>Financial Planning</mark><br>
     <mark>Portfolio Management</mark><br>
 
-    
+- layout: left
+  company:  Hongkong Electric Co. Ltd
+  link: www.hkelectric.com
+  job_title: Graduate Trainee
+  dates: Aug 07 – Aug 08
+  description: | # this will include new lines to allow paragraphs
+    Roles and Responsibilities<br>
+    <mark>Business Development</mark><br>
+    <mark>Electrical Engineering</mark>
+    <mark>Transmission and Distribution Planning</mark><br>  
