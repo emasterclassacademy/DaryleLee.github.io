@@ -7,7 +7,7 @@
   description: | # this will include new lines to allow paragraphs
     Roles and Responsibilities<br>
     <mark>Artificial Intelligence and Machine Learning</mark><br>
-    <mark>Education</mark>
+    <mark>Education</mark><br>
     <mark>Electrical Engineering</mark>
 
 - layout: left
@@ -16,5 +16,10 @@
   job_title: Senior Research Assistant
   dates: Feb 13 – Dec 15
   description: | # this will include new lines to allow paragraphs
-
+    Research Projects<br>
+    •	Government trustworthiness in nuclear safety emergency governance in the UK<br>
+    •	Smart demand response programs in China<br>
+    •	Vanadium-metal hydride flow battery in a smart grid<br>
+    •	SCADA and EMS functions in Power Dispatch Center under Guangdong Power Grid<br>
+    •	Consumption patterns under two demand response schemes - Time-of-Use and Peak Time Rebate tariffs<br>
 
