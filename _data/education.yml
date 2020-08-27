@@ -1,32 +1,5 @@
 # Education Template
-- layout: left
-  name: Ivey Business School at Wester University
-  dates: Sep 19 – Present
-  qualification: Certification
-  description: | # this will include new lines to allow paragraphs
-    Accelerated Management Talent Consortium Programme
 
-- layout: left
-  name: Decoded
-  dates: Apr 19 – Aug 20
-  qualification: Certification
-  description: | # this will include new lines to allow paragraphs
-    Accredited CLP Data Analytics Program<br>
-    Associate - Data Science Version 2.0
-
-- layout: left
-  name: deeplearning.ai
-  dates: Jan 20 – Mar 20 
-  qualification: Certification
-  description: | # this will include new lines to allow paragraphs
-    Deep Learning
-
-- layout: left
-  name: IBM
-  dates: Dec 19 – Feb 20
-  qualification: Certification
-  description: | # this will include new lines to allow paragraphs
-    IBM Data Science
     
  - layout: left
   name: The University of Hong Kong
