@@ -4,18 +4,18 @@
   dates: 
   qualification:
   description: | # this will include new lines to allow paragraphs
-    <pre class="tab">Jul 13 – Mar 16</pre>    Doctor of Philosophy (Electrical Engineering), The University of Hong Kong<br>
-    <pre class="tab">Sep 05 – Aug 07</pre>    Master of Philosophy (Electrical Engineering), The University of Hong Kong<br>
-    <pre class="tab">Sep 02 – Jun 05</pre>    Bachelor of Engineering (Electrical Engineering), The University of Hong Kong<br>
+    Jul 13 – Mar 16 &nbsp;&nbsp;&nbsp;    Doctor of Philosophy (Electrical Engineering), The University of Hong Kong<br>
+    Sep 05 – Aug 07 &nbsp;&nbsp;&nbsp;    Master of Philosophy (Electrical Engineering), The University of Hong Kong<br>
+    Sep 02 – Jun 05 &nbsp;&nbsp;&nbsp;    Bachelor of Engineering (Electrical Engineering), The University of Hong Kong<br>
     
 - layout: left
   name: Certificate
   dates: 
   qualification:
   description: | # this will include new lines to allow paragraphs
-    <pre class="tab">Sep 19 – Present</pre>   Accelerated Management Talent Consortium Programme, Ivey Business School at Wester University<br>
-    <pre class="tab">Aug 20 - Aug 20</pre>    Associate - Data Science Version 2.0, Dell EMC<br>
-    <pre class="tab">Apr 19 – Aug 20</pre>    Accredited CLP Data Analytics Program, Decoded<br>
-    <pre class="tab">Jan 20 – Mar 20</pre>    Deep Learning, deeplearning.ai<br>
-    <pre class="tab">Dec 19 – Feb 20</pre>    Data Science, IBM<br>
-    <pre class="tab">Jan 08 – Oct 09</pre>    Postgraduate Diploma in Investment Management, HKU SPACE<br>
+    Sep 19 – Present &nbsp;&nbsp;&nbsp;   Accelerated Management Talent Consortium Programme, Ivey Business School at Wester University<br>
+    Aug 20 - Aug 20 &nbsp;&nbsp;&nbsp;    Associate - Data Science Version 2.0, Dell EMC<br>
+    Apr 19 – Aug 20 &nbsp;&nbsp;&nbsp;   Accredited CLP Data Analytics Program, Decoded<br>
+    Jan 20 – Mar 20 &nbsp;&nbsp;&nbsp;    Deep Learning, deeplearning.ai<br>
+    Dec 19 – Feb 20 &nbsp;&nbsp;&nbsp;    Data Science, IBM<br>
+    Jan 08 – Oct 09 &nbsp;&nbsp;&nbsp;   Postgraduate Diploma in Investment Management, HKU SPACE<br>
