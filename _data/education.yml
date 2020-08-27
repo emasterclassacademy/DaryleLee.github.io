@@ -21,9 +21,37 @@
   description: | # this will include new lines to allow paragraphs
     Deep Learning
 
+- layout: left
+  name: IBM
+  dates: Dec 19 – Feb 20
+  qualification: Certification
+  description: | # this will include new lines to allow paragraphs
+    IBM Data Science
+    
  - layout: left
   name: The University of Hong Kong
   dates: Jul 13 – Mar 16
   qualification: Doctor of Philosophy
+  description: | # this will include new lines to allow paragraphs
+    Electrical Engineering
+  
+  - layout: left
+  name: HKU SPACE
+  dates: Jan 08 – Oct 09
+  qualification: Postgraduate Diploma
+  description: | # this will include new lines to allow paragraphs
+    Investment Management
+ 
+ - layout: left
+  name: The University of Hong Kong
+  dates: Sep 05 – Aug 07
+  qualification: Master of Philosophy 
+  description: | # this will include new lines to allow paragraphs
+    Electrical Engineering
+    
+ - layout: left
+  name: The University of Hong Kong
+  dates: Sep 02 – Jun 05
+  qualification: Bachelor of Engineering
   description: | # this will include new lines to allow paragraphs
     Electrical Engineering
