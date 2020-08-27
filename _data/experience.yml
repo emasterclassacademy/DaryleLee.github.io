@@ -1,18 +1,24 @@
 # Experience template
 - layout: left
-  company: CLP Holdings
-  link: www.clpgroup.com
-  job_title: Assistant Manager – CLP Research Institute
-  dates: Dec 18 – Present 
+  company: HKU SPACE
+  link: hkuspace.hku.hk
+  job_title: Course Lecturer
+  dates: Jan 15 – Dec 15
   description: | # this will include new lines to allow paragraphs
-    Directly report to the Director and lead a research team in managing CLP Research Institute’s projects and operations<br>
-    <mark>Strategic Planner responsibilities</mark><br>
-      •	Identify, prioritize and participate in R&D projects to support business strategy, opportunities and needs <br>
-      • Monitor research and emerging technological development, and evolving international and local industry-related regulations that are impacting overall business strategy <br>
-    <mark>Researcher and Data Scientist responsibilities</mark><br>
-      •	Deliver regular research papers on emerging issues and technologies of strategic importance to CLP’s business <br>
-      •	Develop end-to-end analytical products using machine learning and statistical techniques <br>
-      •	Provide machine learning and statistical technical advice to the wider analytics team <br>
-    <mark>Communications responsibilities</mark><br>
-      •	Support Group-level research-related communications and positions<br>
-      •	Engage international and local stakeholders through speaking/lecturing to business community, academia, students and the public on industry challenges and practices <br>
+    Roles and Responsibilities
+    <mark>Artificial Intelligence and Machine Learning</mark><br>
+    <mark>Education</mark>
+    <mark>Electrical Engineering</mark>
+
+- layout: left
+  company: The University of Hong Kong
+  link: www.hku.hk
+  job_title: Senior Research Assistant 
+  dates: Feb 13 – Dec 15
+  description: | # this will include new lines to allow paragraphs
+  Research Projects:
+    •	Government trustworthiness in nuclear safety emergency governance in the UK
+    •	Smart demand response programs in China 
+    •	Vanadium-metal hydride flow battery in a smart grid
+    •	PSCADA and EMS functions in Power Dispatch Center under Guangdong Power Grid
+    •	Consumption patterns under two demand response schemes: Time-of-Use and Peak Time Rebate tariffs
